@@ -76,7 +76,7 @@ enum Color:
   case Red, Blue, Green
 
 object Logarithms:
-//vvvvvv this is the important difference!
+// this is the important difference!
   opaque type Logarithm = Double
 
   object Logarithm:
