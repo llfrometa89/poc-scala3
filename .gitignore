@@ -17,6 +17,7 @@ hs_err_pid*
 ### Gradle template
 .gradle
 build/
+.bsp
 
 # Ignore Gradle GUI config
 gradle-app.setting
